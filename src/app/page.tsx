@@ -3,5 +3,5 @@ import HeaderNav from "./components/ui/header";
 import HomePage from "./pages/home";
 
 export default function Home() {
-      return <section><HeaderNav></HeaderNav></section>
+      return <section><HomePage></HomePage></section>
 }
